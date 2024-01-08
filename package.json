@@ -1,10 +1,10 @@
 {
   "name": "hohen-end-dark-theme",
   "displayName": "Hohen-End",
-  "description": "High contrast theme with black background, very nice for oled screens Based on monokai + Pitch black from Hosein Khansari",
+  "description": "High contrast theme with black background, very nice for oled screens. Based on monokai + Pitch black from Hosein Khansari",
   "publisher": "lucassiqueira",
   "version": "0.0.1",
-  "icon": "./images/icon.jpeg",
+  "icon": "images/icon.jpeg",
   "repository": {
     "type": "git",
     "url": "https://github.com/LucasSiqueiraSurreco/hohen-end-dark-theme"
