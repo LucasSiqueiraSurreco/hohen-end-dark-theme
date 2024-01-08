@@ -1,0 +1,32 @@
+{
+  "name": "hohen-end-dark-theme",
+  "displayName": "Hohen-End",
+  "description": "Dark theme with high contrast, very nice for oled screens",
+  "publisher": "lucassiqueira",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LucasSiqueiraSurreco/hohen-end-dark-theme"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "oled theme",
+    "high contrast"
+  ],
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Hohen-End",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Hohen-End-color-theme.json"
+      }
+    ]
+  }
+}
