@@ -4,6 +4,7 @@ Try at [Marketplace](https://marketplace.visualstudio.com/items?itemName=LucasSi
 
 
 High contrast theme with a black background, perfect for OLED screens. 
+
 Based on Monokai + Pitch Black from Hosein Khansari.
 
 ## Showcase
