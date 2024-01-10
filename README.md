@@ -1,6 +1,6 @@
 # Hohen-End Dark Theme
 
-Try at [Marketplace](https://marketplace.visualstudio.com/items?itemName=LucasSiqueira.hohen-end-dark-theme) or type **Hohen-End** at your VSCode extension place.
+##Try at [Marketplace](https://marketplace.visualstudio.com/items?itemName=LucasSiqueira.hohen-end-dark-theme) or type **Hohen-End** at your VSCode extension place.
 
 
 High contrast theme with a black background, perfect for OLED screens. 

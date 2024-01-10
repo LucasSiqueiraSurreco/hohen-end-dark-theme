@@ -3,7 +3,7 @@
   "displayName": "Hohen-End",
   "description": "High contrast theme with black background, very nice for oled screens. Based on monokai + Pitch black from Hosein Khansari",
   "publisher": "lucassiqueira",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "icon": "images/icon.jpeg",
   "repository": {
     "type": "git",
