@@ -11,7 +11,7 @@ Based on Monokai + Pitch Black from Hosein Khansari.
 
 ![Screenshot 1](images/1.png)
 
-![Screenshot 2](images/2.png)
+![Screenshot 2](images/2n.png)
 
 ![Screenshot 3](images/3.png)
 
