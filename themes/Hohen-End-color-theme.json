@@ -1429,7 +1429,7 @@
 	 "editorGroup.dropBackground": "#6f2a3a80",
 	 "editorGroup.focusedEmptyBorder": "#6f2a3a",
 	 "editorGroupHeader.tabsBackground": "#000000",
-	 "tab.border": "#00000033",
+	 "tab.border": "#6f2a3a",
 	 "tab.activeBorder": "#6f2a3a",
 	 "tab.inactiveBackground": "#000000",
 	 "tab.activeModifiedBorder": "#6f2a3a",
