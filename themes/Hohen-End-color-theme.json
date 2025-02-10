@@ -1441,7 +1441,7 @@
 	 "editorLineNumber.foreground": "#ffffff59",
 	 "editorLineNumber.activeForeground": "#bb183e",
 	 "editorCursor.foreground": "#44445a",
-	 "editor.selectionBackground": "#5110b355",
+	 "editor.selectionBackground": "#8f45ff55",
 	 "editor.wordHighlightBackground": "#45459922",
 	 "editor.wordHighlightStrongBackground": "#4545992a",
 	 "editor.lineHighlightBorder": "#ffffff28",
@@ -1469,6 +1469,6 @@
 	 "titleBar.activeBackground": "#000000",
 	 "pickerGroup.border": "#FFFFFF1a",
 	 "debugToolBar.background": "#000000",
-	 "selection.background": "#6f2a3a"
+	 "selection.background": "#6f2a3a",
    },
   }
